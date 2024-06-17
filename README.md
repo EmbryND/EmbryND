@@ -6,7 +6,7 @@ Meu nome é Samuel Lima.
 
 - Atualmente, estou cursando a Etec (Escola Técnica Estadual) no campo de Desenvolvimento de Sistemas para expandir o meu conhecimento e aprimorar minhas habilidades na área tecnológica. 
 
-- Uso o Github como um portfólio para todos os meus projetos, desde sites em front-end até projetos em back-end.
+- Uso o Github como um portfólio para todos os meus projetos, desde sites em front-end até projetos de Java, PHP, entre outros.
 
 ### Estou a disposição para contato através do e-mail abaixo:
 

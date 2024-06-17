@@ -1,11 +1,13 @@
 ### Bem-vindo ao meu perfil! 😉
 
-Meu nome é Samuel Elvis
+Meu nome é Samuel Lima.
 
-- Estou estudando na Etec;
-- Faço curso técnico a noite de desenvolvimento de sistemas;
-- Uso esse espaço para compartilhar meus projetos e organização
+- Sou iniciante na área da tecnologia, e estou em busca de obter conhecimento e experiência através dela.
 
-### Caso queira, pode entrar em contato comigo através do e-mail:
+- Atualmente, estou cursando a Etec (Escola Técnica Estadual) no campo de Desenvolvimento de Sistemas para expandir o meu conhecimento e aprimorar minhas habilidades na área tecnológica. 
+
+- Uso o Github como um portfólio para todos os meus projetos, desde sites em front-end até projetos em back-end.
+
+### Estou a disposição para contato através do e-mail abaixo:
 
 elvislimasamuel27@gmail.com

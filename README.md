@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil! 😉
 
-** Meu nome é Samuel Lima. **
+Meu nome é Samuel Lima.
 
 - Sou iniciante na área da tecnologia, e estou em busca de obter conhecimento e experiência através dela.
 

@@ -19,11 +19,5 @@ Meu nome é **Samuel Lima**, mas pode me chamar de **Samuca**.
 
 ---
 
-### 📊 Minhas estatísticas no GitHub:
-![Samuca's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelElvis&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelElvis&layout=compact&theme=tokyonight)
-
----
-
 📩 **Contato:**  
 ✉️ elvislimasamuel27@gmail.com

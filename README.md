@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu perfil!
 
-Meu nome é **Samuel Lima**, mas pode me chamar de **Samuca**.  
+Meu nome é **Samuel Elvis**, mas pode me chamar de **Samuca**.  
 
 - 🎓 Formado na **ETEC** em Desenvolvimento de Sistemas.  
 - 💻 Aqui no GitHub você encontra meus projetos de estudo: front-end, Java, PHP, Python e mais.  
